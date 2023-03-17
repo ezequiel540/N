@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-//este codigo sirve para responder ala pregunta n°2
+//este codigo sirve para responder ala pregunta 1°b
 
 public class Main {
     public static void main(String[] args) {
